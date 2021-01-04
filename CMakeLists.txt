@@ -34,9 +34,11 @@ set(PROJECT_SOURCES
         mainwindow.cpp
         homewidget.cpp
         webmanager.cpp
+        apputilities.cpp
         mainwindow.h
         homewidget.h
         webmanager.h
+        apputilities.h
         ${TS_FILES}
 )
 
